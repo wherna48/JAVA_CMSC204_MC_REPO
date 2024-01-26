@@ -1,1 +1,1 @@
-# CMSC204
+# CMSC204_Labs
